@@ -4,7 +4,4 @@
 # Script outputs (JSON files)
 *.json
 
-# Script outputs (folders)
-*/
-
 .cursor
